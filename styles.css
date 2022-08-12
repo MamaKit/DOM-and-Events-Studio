@@ -6,6 +6,14 @@
     position: relative;
 }
 
+.shuttle {
+    position: absolute;
+    /* top: 100px; */
+    /* right: 0; */
+    /* bottom: 100px; */
+    /* left: 0; */
+}
+
 #flightStatus {
     color: green;
 }
